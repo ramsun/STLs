@@ -4,7 +4,7 @@ Fall 2018
 
 main.cpp
 
-This is the driver for Machine Problem 7.  It uses C++ 11 STL libraries in
+This is the driver for the program.  It uses C++ 11 STL libraries in
 order to make a frequency table generator and palindrome tester algorithm.
 */
 
