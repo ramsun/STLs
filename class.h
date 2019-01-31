@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 1
-9/7/2018
-
 class.cpp
 
 This is the declaration of the FrequencyTable class.  It makes use of a
