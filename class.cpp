@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 7
-Fall 2018
-
 class.cpp
 
 This is the implementation of class.h.
